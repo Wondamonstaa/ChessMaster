@@ -1,11 +1,3 @@
-/*
- Name: Kiryl Baravikou
- UIN: 656339218
- Course: CS 341
- Professor: Jon Solworth
- */
-
-
 #include "chessboard.h"
 
 // define containers for color mappings (2 colors) and piece mappings (6 pieces)
