@@ -1,10 +1,3 @@
-/*
- Name: Kiryl Baravikou
- UIN: 656339218
- Course: CS 341
- Professor: Jon Solworth
- */
-
 #include <iostream>
 #include <iterator>
 using namespace std;
